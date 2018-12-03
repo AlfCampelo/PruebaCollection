@@ -26,6 +26,7 @@ public class PruebaCollection {
         listaMarcaChoches.add("Seat");
         listaMarcaChoches.add("Renault");
         listaMarcaChoches.add("Honda");
+        listaMarcaChoches.add("Tesla");
 
         System.out.println("Número de elementos antes de eliminar: " + listaMarcaChoches.size());
         System.out.println(listaMarcaChoches.toString());
